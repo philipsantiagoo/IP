@@ -7,3 +7,5 @@
 📌 ***Lista 01:*** uso básico dos conceitos de comandos condicionais <br>
 📌 ***Lista 02:*** utilização dos laços de repetição <br>
 📌 ***Lista 03:*** implementação dos conceitos e fundamentos de listas <br>
+📌 ***Lista 04:*** aplicando os conceitos de funções (parâmetros e return com um ou mais valores) <br>
+
