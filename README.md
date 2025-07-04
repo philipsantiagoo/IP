@@ -1,6 +1,6 @@
 # Introdução a Programação
 
-### 📚 Repositório das listas de exercícios da cadeira de Introdução a Programação 
+### 📚 Repositório das listas de exercícios da cadeira de Introdução a Programação 2025.1
 ### 📚 Universidade Federal de Pernambuco
 ### 📚 CIn UFPE
 
